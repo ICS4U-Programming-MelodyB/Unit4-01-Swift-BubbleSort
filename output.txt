@@ -1,0 +1,10 @@
+Invalid input: '' is not a valid integer
+The sorted array is:  []
+Invalid input: '' is not a valid integer
+The sorted array is:  [4, 5, 6, 9, 10]
+Invalid input: 'people' is not a valid integer
+The sorted array is:  [10]
+Invalid input: '' is not a valid integer
+The sorted array is:  [0, 1, 1, 2, 2, 4, 4, 6, 7, 12, 56, 89]
+The sorted array is:  [-1, 4, 7, 12, 26, 46, 56, 58, 74, 173, 193, 817, 920]
+The sorted array is:  [18, 23, 28, 45, 45, 69, 76, 90]
